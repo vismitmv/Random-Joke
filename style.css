@@ -1,0 +1,17 @@
+*{
+    background-color:floralwhite;
+    text-align: center;
+    font-family:sans-serif;
+}
+.question{
+    margin-left: 500px;
+    background-color:azure;
+    height: 40px;
+    width: 500px;
+}
+.answer{
+    margin-left: 550px;
+    background-color:azure;
+    height: 40px;
+    width: 400px;
+}
